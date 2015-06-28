@@ -22,7 +22,8 @@ public class MainActivity extends ActionBarActivity {
         getSupportActionBar().setLogo(R.drawable.ic_launcher);
         getSupportActionBar().setDisplayUseLogoEnabled(true);
 
-        Log.d(LOG_TAG,"onCreate");
+        Log.d(LOG_TAG, "onCreate");
+        Log.d(LOG_TAG,"test");
 
     }
 
